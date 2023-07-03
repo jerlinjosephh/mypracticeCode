@@ -1,0 +1,6 @@
+1.Write a program which takes input from the user and checks whether the number is even or odd.
+2.Write a program which takes input from the user and checks whether the number is positive or negative.
+3.Write a program which takes input from the user and verifies the condition using 'and' & 'or' operator.
+4.Write a program using for loop which prints the sum of (1-10).
+5.Write a program which throws division error as exception using try and except block.
+6.Write a program using for while loop which prints the sum of (1-10) 

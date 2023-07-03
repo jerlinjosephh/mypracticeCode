@@ -1,0 +1,284 @@
+Solve the following coding questions in Python.
+
+Make a separate folder and save the solved questions inside the folder as .py format.
+
+1.  TAKE A WORD AS INPUT FROM USER. PRINT THE TOTAL NUMBER OF VOWELS IN THE WORD.
+
+2.  TAKE THREE NUMBERS FROM USER AS INPUTS. PRINT THE SMALLEST NUMBER BETWEEN THOSE NUMBERS BY USING IF-ELSE STATEMENTS.
+
+3.  TAKE A WORD FROM USER AS INPUT. PRINT THE LENGTH OF THAT USER GIVEN WORD WITHOUT USING INBUILT "len" METHOD.
+
+4.  TAKE A WORD AS INPUT FROM THE USER, REVERSE IT AND PRINT IT.
+
+5.  MAKE A PARAMETERIZED FUNCTION, WHICH WILL TAKE SOMEONE'S AGE AS USER INPUT AND WILL PRINT THE VALUE DOUBLE OF THEIR AGE, WHEN THE FUNCTION IS CALLED.
+
+6.  TAKE AN INTEGER INPUT VALUE FROM USER. PRINT THE VALUE 3 TIMES WITHOUT A SPACE BETWEEN THEM.
+
+    EXAMPLE:
+    INPUT : 17
+    OUTPUT 171717
+
+7.  TAKE A WORD IN CAPITAL LETTERS FROM USER. PRINT THE WORD IN LOWERCASE.
+
+8.  TAKE A NUMERIC VALUE FROM USER. PRINT THE SUM THE DIGITS OF THAT NUMBER.
+
+9.  TAKE A SINGLE ALPHABETIC CHARACTER FROM THE USER. PRINT THE ASCII VALUE OF THAT CHARACTER.
+
+10. TAKE TWO NUMERIC INTEGER VALUES FROM USER. PRINT THE DIFFERENCE OF THEIR VALUES IF THOSE TWO NUMBERS ARE SAME. PRINT THE HIGHER VALUE IF THOSE TWO NUMBERS ARE DIFFERENT.
+
+
+
+
+
+
+Solve the following MCQ Questions.
+
+1. Which one is True for Lists in Python?                                
+
+a) Elements of lists are stored in contagious memory location.    
+b) size(list1) command is used to find the size of lists.
+c) Lists are immutable.
+d) Size of the lists must be specified before its initialization
+
+ANSWER: 
+
+
+
+
+2. Which of the following(s) is/are used for Exception Handling in Python?
+
+a) try
+b) except
+c) finally
+d) All of the above          
+
+ANSWER: 
+
+
+
+
+3. In Python, how to access substring “Python” from the following string declaration?        
+
+str = "Hi this is Python"
+
+a) str[11:]                     
+b) str[:11]
+c) Both of the above are correct
+d) None of the above
+
+ANSWER: 
+
+
+
+4. ________ represents an entity in the real world with its identity and behaviour.
+
+a) A method
+b) An object   
+c) A class
+d) An operator
+
+ANSWER: 
+
+
+
+5. What will be the output of the following code snippet in Python?              
+
+a={5,6,7}
+a.add(5)
+print(a)
+
+a) {5,6,7,5}
+b) {5,5,6,7}
+c) {5,6,7}    
+d) None of the above
+
+ANSWER: 
+
+
+
+6. What will be the output of the following code in Python?                                 
+
+list=[1,2,3,4,5]
+list.pop()
+print(list)
+
+a) [1,2,3,4]            
+b) [2,3,4,5]
+c) error
+d) None of the above
+
+ANSWER: 
+
+
+
+7. In Python, which core data type do we use in order to store values in terms of key and value?
+
+a) list
+b) tuple
+c) class
+d) dictionary        
+
+ANSWER: 
+
+
+
+8. Which of the following operator can not be used with strings in Python?
+
+a) +
+b) *
+c) –                
+d) All of the mentioned
+
+ANSWER: 
+
+
+9. Suppose t = (1, 2, 4, 3), which of the following is not correct in Python?
+
+a) print(t[3])
+b) t[3] = 45           
+c) print(max(t))
+d) print(len(t))
+
+ANSWER: 
+
+
+10. Output of the following Python code will be ___________.
+
+z=set('abc$de')
+print('a' in z)
+
+a) Error
+b) True              
+c) False
+d) No output
+
+ANSWER: 
+
+
+11. What will be the output of the following Python code?
+
+import math
+print(abs(math.sqrt(25)))
+
+a) 5
+b) 5.0              
+c) Error
+d) -5
+
+ANSWER: 
+
+
+12. Tell the output of the following Python code.
+
+any([2>8, 4>2, 1>2])
+
+a) Error
+b) True                           
+c) False
+d) 4>2
+
+
+ANSWER: 
+
+
+13. Which of the following is correct related to Functions in Python?		
+
+a) Functions don’t provide better modularity for your application.
+b) You can’t create your own functions.
+c) Functions are reusable pieces of programs.    
+d) None of the above
+
+
+ANSWER: 
+
+
+14. What will be the output of the following code snippet?             
+
+nums = set([1,1,2,3,3,3,4,4])
+print(len(nums))
+
+a) 8
+b) 7
+c) 4                     
+d) None of the above
+
+ANSWER: 
+
+
+15. What will be the output of the following code snippet?             
+
+d = {"a":40, "b":45} 
+print("a" in d)
+
+a) True        
+b) False
+c) a
+d) Error
+
+ANSWER: 
+
+
+16. What will be the output of the following code?							
+
+s1={1,2,3,4,5}
+s2={4,5,6,7,8}
+print(s1&s2)
+
+a) {4,5}                                                                            
+b) [4,5]
+c) {1,2,3,4,5,4,5,6,7,8}
+d) {1,2,3,4,5,6,7,8}
+
+ANSWER: 
+
+
+17. Instance variables and methods in the Python class are __________________.			    
+
+a) Private by default
+b) Public by default                  
+c) Protected by default
+d) None of the Above
+
+ANSWER: 
+
+
+18. What will be the output of the following code?       	           
+
+def example(a):
+    a = a + '2'
+    a = a*2
+    return a
+print(example("python"))
+
+a) python2
+b) python2python2    
+c) error
+d) None of the above
+
+ANSWER: 
+
+
+19. What will be the output of the following code?		          
+
+print('ababab'.replace('ab', '01', 1))
+
+a) 010101
+b) 0101ab
+c) 01abab           
+d) None of the above
+
+ANSWER: 
+
+
+20. What will be the output of the following code?                 
+
+a=(2,3,4)
+print(sum(a,3))
+
+
+a) (5,6,7)
+b) (2,3,4),(2,3,4),(2,3,4)
+c) 12                       
+d) 5
+
+ANSWER: 

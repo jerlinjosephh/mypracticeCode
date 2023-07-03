@@ -1,0 +1,6 @@
+Q1. Print only the even numbers from the list
+Q2. Print the elements of a list in reverse order
+Q3. Print from 1 to 10 except 6 by using for loop
+Q4. Remove the duplicate elements from the list by making it a set
+Q5. Print only the  value of a key in a dictionary
+Q6. Write a function and pass 'first_name' as a parameter and print your first name by calling the function.
