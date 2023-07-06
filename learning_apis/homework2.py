@@ -9,7 +9,7 @@
 from fastapi import FastAPI
 
 app = FastAPI()
-def get_candidate_data():
+async def get_candidate_data():
     a = {'name': 'Jerlin', 'register_no': 44555, 'course': 'python', 'mobile_no' :7788655, 'address' : 'hyderabad'}
     return a 
 
